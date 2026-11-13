@@ -16,6 +16,17 @@ The **Academic Assignment Management System** is a lightweight, responsive deskt
 
 Built natively in Python using the **Tkinter / ttk** graphical subsystem, the software delivers a rich desktop user experience without requiring heavy third-party GUI frameworks or external database daemons. All data is structured with atomic JSON persistence and offers one-click CSV report exporting.
 
+<div align="center">
+  <img src="assets/python_dashboard.png" alt="Academic Assignment Management System Dashboard" width="100%" />
+  <p><em>Figure 1: Executive Dashboard with Real-Time Statistics Counters and Urgent Deadlines</em></p>
+</div>
+
+### Application Modules & Workflow
+
+| 1. Course Management | 2. Assignment Tracker | 3. CSV Report Export |
+|:---:|:---:|:---:|
+| <img src="assets/python_courses.png" width="300" alt="Course Management" /><br/><b>Subject Validation & CRUD</b> | <img src="assets/python_assignments.png" width="300" alt="Assignment Tracker" /><br/><b>Dynamic Calendar & Priority Tracking</b> | <img src="assets/python_export.png" width="300" alt="CSV Export" /><br/><b>Audit Trail & Data Portability</b> |
+
 ---
 
 ## ✨ Key Features & Capabilities
@@ -102,6 +113,11 @@ The application features a modern, accessible interface adhering to clean visual
 
 ```
 PYTHON_AssignmentManagementApplication/
+├── assets/                           # Application GUI screenshots
+│   ├── python_dashboard.png
+│   ├── python_courses.png
+│   ├── python_assignments.png
+│   └── python_export.png
 ├── src/
 │   ├── AssignmentManagement.py       # Main application source code (Tkinter GUI & logic)
 │   ├── assignments.json              # Sample assignment database schema
