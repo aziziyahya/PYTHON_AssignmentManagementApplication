@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Private Academic Deliverables (Reports, Slides, Presentations)
+docs/
+*.pdf
+*.pptx
+*.ppt
+*.docx
+*.doc
+
+# Media & Videos
+media/
+*.mp4
+*.mov
+*.avi
+*.mkv
+
