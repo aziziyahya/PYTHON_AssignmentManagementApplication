@@ -12,7 +12,7 @@
 
 ## 📌 Project Overview
 
-The **Academic Assignment Management System** is a lightweight, responsive desktop application engineered to streamline deadline tracking, workload scheduling, and course-specific task organization for university students.
+The **Academic Assignment Management System** is a lightweight, responsive desktop application developed to streamline deadline tracking, workload scheduling, and course-specific task organization for university students.
 
 Built natively in Python using the **Tkinter / ttk** graphical subsystem, the software delivers a rich desktop user experience without requiring heavy third-party GUI frameworks or external database daemons. All data is structured with atomic JSON persistence and offers one-click CSV report exporting.
 
