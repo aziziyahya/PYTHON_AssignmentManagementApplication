@@ -170,8 +170,8 @@ Developed as part of **NMT12704: System Programming Technology II** within the *
 
 | Contributor | Matric ID | Focus Area |
 |---|---|---|
-| **Nik Mohamad Azizi Nik Yahya** | `241503239` | Application Architecture & Logic |
-| **Afifah Nadhirah Selbini** | `241501822` | Layout Design & Documentation |
+| **Nik Mohamad Azizi Bin Nik Yahya** | `241503239` | Application Architecture & Logic |
+| **Afifah Nadhirah Binti Selbini** | `241501822` | Layout Design & Documentation |
 | **Nisa Liyana Asmadi** | `241501842` | Layout Design & Documentation |
 
 *Faculty of Electronic Engineering Technology, Universiti Malaysia Perlis*
