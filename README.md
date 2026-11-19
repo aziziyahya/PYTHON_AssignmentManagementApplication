@@ -52,8 +52,12 @@ Built natively in Python using the **Tkinter / ttk** graphical subsystem, the so
 
 ## 🏗️ Software Architecture & Data Flow
 
+<div align="center">
+
 <details>
-<summary><b>📐 Click to expand Application Architecture Diagram</b></summary>
+<summary align="center"><b>📐 Click to expand Application Architecture Diagram</b></summary>
+
+<br/>
 
 ```mermaid
 graph TD
@@ -96,6 +100,8 @@ graph TD
 ```
 
 </details>
+
+</div>
 
 ---
 
